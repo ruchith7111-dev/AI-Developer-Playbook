@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+<title id="title">AI-assisted development loop</title><desc id="desc">Understand, plan, build, inspect, test and learn in a continuous loop.</desc>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6" fill="none" stroke="#94a3b8" stroke-width="1.4"/></marker></defs>
+<rect width="1100" height="360" rx="24" fill="#0b1220"/>
+<text x="48" y="54" fill="#f8fafc" font-family="Arial" font-size="24" font-weight="700">The AI-assisted development loop</text>
+<text x="48" y="82" fill="#94a3b8" font-family="Arial" font-size="14">Small, reviewable cycles beat one giant prompt.</text>
+<g font-family="Arial" text-anchor="middle" font-weight="700" font-size="17">
+<g><rect x="42" y="138" width="150" height="92" rx="14" fill="#172554" stroke="#3b82f6"/><text x="117" y="193" fill="#fff">Understand</text></g>
+<g><rect x="220" y="138" width="150" height="92" rx="14" fill="#1e1b4b" stroke="#6366f1"/><text x="295" y="193" fill="#fff">Plan</text></g>
+<g><rect x="398" y="138" width="150" height="92" rx="14" fill="#312e81" stroke="#818cf8"/><text x="473" y="193" fill="#fff">Build</text></g>
+<g><rect x="576" y="138" width="150" height="92" rx="14" fill="#3b0764" stroke="#a855f7"/><text x="651" y="193" fill="#fff">Inspect</text></g>
+<g><rect x="754" y="138" width="150" height="92" rx="14" fill="#164e63" stroke="#06b6d4"/><text x="829" y="193" fill="#fff">Test</text></g>
+<g><rect x="932" y="138" width="126" height="92" rx="14" fill="#14532d" stroke="#22c55e"/><text x="995" y="193" fill="#fff">Learn</text></g>
+</g>
+<g stroke="#94a3b8" stroke-width="2" fill="none" marker-end="url(#a)"><path d="M193 184 H214"/><path d="M371 184 H392"/><path d="M549 184 H570"/><path d="M727 184 H748"/><path d="M905 184 H926"/><path d="M995 236 V282 H117 V238"/></g>
+<text x="550" y="321" fill="#cbd5e1" text-anchor="middle" font-family="Arial" font-size="14">Repeat for the next small slice. Keep the developer in control.</text>
+</svg>
